@@ -1,0 +1,17 @@
+{
+  "name": "ds-efficiency-analyzer",
+  "version": "1.0.0",
+  "description": "data structure efficiency analyzer",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "react-router-dom": "^6.15.0"
+  }
+}
